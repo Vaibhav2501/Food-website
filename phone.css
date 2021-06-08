@@ -29,6 +29,8 @@
 }
 
 /* Service section */
+#section-container h1{
+    margin-top:10px;
 #services {
     flex-direction: column;
 }
